@@ -8,7 +8,7 @@ I'm a full stack Data Scientist and Decision Scientist. Every real-life challeng
 -  I've recently relocated from 🌏Hong Kong  🛫to  🌎Vancouver!
 
 - 🔭 I’m currently looking for **Machine Engineer** / **Data Scientist** / **operations research practitioner** in Vacnouver, Canada!
-- 🌱 I’m currently learning **Graph Neural Network**, **Semi-supervised Learning** and **Causal Inference.
+- 🌱 I’m currently learning **Graph Neural Network**, **Semi-supervised Learning** and **Causal Inference**.
 - 💬 Ask me about **Operations Research** and **Explainable AI**/**Interpretable Machine Learning** 
 - 🏞 A leisure hiker and explorer with his drone🛸
 - 😄 Pronouns: He/His
