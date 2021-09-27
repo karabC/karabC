@@ -5,9 +5,9 @@
 
 I'm a full stack Data Scientist and Decision Scientist. Every real-life challenge is with its characteristic and different solutions are just set of trade-off. And I enjoy discovering effective ways of solving each of them!
 
--  I've recently relocated from 🌏Hong Kong  🛫to  🌎Vancouver!
+-  I've recently relocated from 🌏Hong Kong  🛫to  🌎Vancouver, Canada!
 
-- 🔭 I’m currently looking for **Machine Engineer** / **Data Scientist** / **operations research practitioner** in Vacnouver, Canada!
+- 🔭 I’m currently looking for **Machine Engineer** / **Data Scientist** / **operations research practitioner** in Vancouver, Canada!
 - 🌱 I’m currently learning **Graph Neural Network**, **Semi-supervised Learning** and **Causal Inference**.
 - 💬 Ask me about **Operations Research** and **Explainable AI**/**Interpretable Machine Learning** 
 - 🏞 A leisure hiker and explorer with his drone🛸
