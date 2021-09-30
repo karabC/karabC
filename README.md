@@ -3,7 +3,7 @@
 
 
 
-I'm a full stack Data Scientist and Decision Scientist. Every real-life challenge is with its characteristic and different solutions are just set of trade-off. And I enjoy discovering effective ways of solving each of them!
+I'm a full stack Data Scientist and Decision Scientist. Every real-life challenge is with its characteristic and different solutions are with their own trade-off. And I enjoy discovering effective ways of solving each of them!
 
 -  I've recently relocated from 🌏Hong Kong  🛫to  🌎Vancouver, Canada!
 
